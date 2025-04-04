@@ -1,0 +1,842 @@
+Section,Dist.(Km),Location,River,Unnamed: 4,Unnamed: 5,Unnamed: 6,Classification of Particles,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Color and Quantities,Unnamed: 15,Type & Match
+,,,,Fiber and line (mm),Number,Fragment and Sheet (mm),Number,Film (mm),Number,Pellet (mm),Number,Foam (mm),Number,,Number,
+S-01,0.0,Tongi,Turag,"Lmax=0.91
+Lmin=0.24
+Black, Red",11,"Lmax=0.17
+Lmin=0.06
+Bmax=0.07
+Bmin=0.03
+Black, Blue ,Dark Red",29,"Lmax=0.41
+Lmin=0.10
+Bmax=0.19
+Bmin=0.06
+Transparent, Black",13,"Dmax=0.29
+Dmin=0.07
+Black, Dark Red",7,"Lmax=0.24
+Lmin=0.07
+Bmax=0.10
+Bmin=0.04
+White",3,"Black, White, Blue, Dark Red, and Transparent",63,"Polyvinyl Stearate-41.81%
+Nylon II- 35.02%
+Alkyd resin- 32%
+Polyethylene Glycol-26.99%
+Polyethylene_polypropelene- 25.72%"
+S-02,1.6,Estema Area,Turag,"Lmax=0.93
+Lmin=0.24
+Black, Red, Blue",33,"Lmax=0.24
+Lmin=0.07
+Bmax=0.11
+Bmin=0.07
+Black, Dark Red",21,"Lmax=0.16
+Lmin=0.06
+Bmax=0.12
+Bmin=0,05
+White, Transparent",8,"Dmax=0.17
+Dmin=0.05
+Black ,Brown",12,0,,"Black,
+White, Brown, Blue, Red, Dark Red, and Transparent",74,"Alkyd resin-84.20%
+Polyvinyl Acetate_Ethylene- 74%"
+S-03,3.2,Kathaldia Ghat,Turag,"Lmax=1.00
+Lmin=0.11
+Black, Light Blue, Red",27,"Lmax=0.13
+Lmin=0.04
+Bmax=0.09
+Bmin=0.03
+Black, Dark Red",43,"Lmax=0.09
+Lmin=0.02
+Bmax=0.07
+Bmin=0.02
+Black, White",8,"Dmax=0.13
+Dmin=0.04
+Black, Dark Red, Brown",14,0,,"Black, White, Red, Blue, Brown and Dark Red",90,"Polyvinyl Stearate-69.24%
+Polyester Resin-23.89%"
+S-04,4.8,Prottasa Bridge,Turag,"Lmax=1.63
+Lmin=0.11
+Black, Red, Brown",32,"Lmax=0.34
+Lmin=0.08
+Bmax=0.11
+Bmin=0.02
+Black, Dark Red",57,"Lmax=0.18
+Lmin=0.03
+Bmax=0.10
+Bmin=0.04
+White, Transparent",17,"Dmax=0.10
+Dmin=0.03
+Black, Dark Red, Brown",26,"Lmax=0.19
+Lmin=0.03
+Bmax=0.07
+Bmax=0.05
+White",1,"Black,
+White, Brown, Blue, Red, Dark Red, and Transparent",133,"Polyvinyl Stearate-64.61%
+Polyethylene Glycol-33.86%"
+S-05,6.4,Ashulia Landing Station,Turag,"Lmax=0.92
+Lmin=0.29
+Black, Red, Brown, Blue",18,"Lmax=0.16
+Lmin=0.09
+Bmax=0.09
+Bmin=0.03
+Black, Dark Green",54,"Lmax=0.24
+Lmin=0.11
+Bmax=0.15
+Bmin=0.04
+White, Transparent",23,"Dmax=
+Dmin=
+Black, Light Brown",14,0,,"Black, Transparent, White, Blue, Dark green, Red, and Light brown",109,"Alkyd resin-78.56%
+Polyvinyl Stearate-64.27%"
+S-06,8.0,Rustompur,Turag,"Lmax=1.88
+Lmin=0.11
+Black, Blue, Red",21,"Lmax=0.24
+Lmin=0.05
+Bmax=0.12
+Bmin=0.05
+Black, Blue, Bluish-Green",61,"Lmax=0.33
+Lmin=0.13
+Bmax=0.08
+Bmin=0.04
+White, Black, Transparent",19,"Dmax=0.12
+Dmin=0.05
+Black, Brown",14,"Lmax=0.22
+Lmin=0.06
+Bmax=0.11
+Bmin=0.06
+White",1,"Black, White, Blue, Transparent , Brown, Red, and Bluish-Green",116,Polyethylene Glycol-24.31%
+S-07,9.6,Deul,Turag,"Lmax=0.55
+Lmin=0.12
+Black, Blue, Red",16,"Lmax=0.09
+Lmin=0.02
+Bmax=0.04
+Bmin=0.02
+Black, Blue",67,"White, Black, Transparent",23,"Dmax=0.09
+Dmin=0.02 Black, Brown",21,"Dmax=0.18
+Dmin=0.05
+White",5,"Black, White, Transparent, Blue, Red, and Brown",132,"Alkyd resin-87.12%
+Polyvinyl Stearate-86.01%"
+S-08,11.2,Dhaka Boat Club,Turag,"Lmax=0.55
+Lmin=0.12
+Black, Blue, Red",13,"Lmax=0.07
+Lmin=0.02
+Bmax=0.04
+Bmin=0.03
+Black, Blue, Bluish-Green",41,"Lmax=0.04
+Lmin=0.02
+Bmax=0.03
+Bmin=0.01
+White, Black, Transparent",14,"Dmax=0.04
+Dmin=0.02
+Black, Brown",19,"Dmax=0.19
+Dmin=0.04
+White",6,"Black, White, Transparent, Blue, Red,Bluish-Green and Brown",932,"Polyethylene Glycol-29.62%
+Polyvinyl Alcohol-28.33%
+Nylon II- 28.16%"
+S-09,12.8,Birulia,Turag,"Lmax=1.34
+Lmin=0.14
+Black, Blue, Red",27,"Lmax=0.07
+Lmin=0.02
+Bmax=0.03
+Bmin=0.01
+Black, Blue",56,"Lmax=0.06
+Lmin=0.02
+Bmax=0.04
+Bmin=0.02
+White, Black, Transparent",18,"Dmax=0.04
+Dmin=0.02
+Black, Brown",21,"Lmax=0.21
+Lmin=0.03
+Bmax=0.06
+Bmin=0.07
+White",5,"Black, White, Transparent, Blue, Red and Brown",127,"Polyethylene Glycol-34.06%
+Nylon 6/10-28.94%
+Polyamide 6 +Polyamide 6.6- 26.02%"
+S-10,14.4,Uttar Kaundia,Turag,"Lmax=0.12
+Lmin=0.06
+Black, Blue, Red",19,"Lmax=0.09
+Lmin=0.02
+Bmax=0.05
+Bmin=0.02
+Black, Dark Red, Green ,Light Blue",63,"Lmax=0.11
+Lmin=0.06
+Bmax=0.06
+Bmin=0.02 Black, Transparent",21,"Dmax=0.06
+Dmin=0.02
+Black, Brown",24,"Lmax=0.16
+Lmin=0.08
+Bmax=0.14
+Bmin=0.06
+White",9,"Red, White, Black, Dark Red, Green ,Light Blue, Transparent and Brown",136,"Polyvinyl Stearate-85.80%
+Alkyd Resin-84.30%
+Polyethylene Glycol-31.00%"
+S-11,16.0,Uttar Kaundia,Turag,"Lmax=0.16
+Lmin=0,05
+Black, Red",13,"Lmax=0.09
+Lmin=0.02
+Bmax=0.05
+Bmin=0.02
+Black, Dark Red,",42,"Lmax=0.10
+Lmin=0.03
+Bmax=0.05
+Bmin=0.02
+Black, white, Transparent",15,"Dmax=0.09
+Dmin=0.03
+Black, Brown",11,0,,"Black,White, Red, Dark Red, Green, Brown and Transparent",81,"Nylon II-44.26
+Polyamide 6 +Polyamide 6.6- 24.73%
+Nylon 6/10-23.41%"
+S-12,17.6,Uttar Kaundia,Turag,"Lmax=2.27
+Lmin=0.11
+Black, Red",21,"Lmax=0.16
+Lmin=0.03
+Bmax=0.09
+Bmin=0.02
+Black, Dark Red,",43,"Lmax=0.05
+Lmin=0.02
+Bmax=0.04
+Bmin=0.02
+white, Transparent",17,"Dmax=0.06
+Dmin=0.02
+Black, Brown",16,"Dmax=0.11
+Dmin=0.05
+White",2,"Black, White, Red, Dark Red, Brown and Transparent",99,"Polyethylene Glycol-25.22%
+Polyvinyl Alcohol-24.65%"
+S-13,19.2,Kaundia,Turag,"Lmax=0.74
+Lmin=0.10
+Black, Red",14,"Lmax=0.14
+Lmin=0.04
+Bmax=0.08
+Bmin=0.02
+Black, Dark Red,Green",53,"Lmax=0.10
+Lmin=0.02
+Bmax=0.06
+Bmin=0.02
+white, Transparent",14,"Dmax=0.07
+Dmin=0.02
+Black, Brown",13,"Dmax=0.12
+Dmin=0.05
+White",3,"Black, White, Red, Dark Red, Green, Brown and Transparent",97,"Alkyd Resin-81.20%
+Polyvinyl Stearate-77.37%"
+S-14,20.8,Gabtoloi Aminbazar Bridge,Turag,"Lmax=1.00
+Lmin=9.14
+Black, Red",17,"Lmax=0.17
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+Black, Dark Red, Green ,Light Blue",67,"Lmax=0.12
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+Black, white, Transparent",15,"Dmax=0.13
+Dmin=0.04
+Black, Brown",17,"Dmax=0.12
+Dmin=0.04
+White",2,"Red, White, Black, Dark Red, Green ,Light Blue, Transparent and Brown",118,"Nylon-40.32%
+Polyamide 6 +Polyamide 6.6- 19.04%"
+S-15,22.4,Dhaka Uddan,Buriganga,"Lmax=0.14
+Lmin=-.06
+Black ,Green, Red, Blue",17,"Lmax=0.09
+Lmin=0.03
+Bmax=0.05
+Bmin=0.02
+Brown, Sky Blue, Black",49,"Lmax=0.14
+Lmin=0.04
+Bmax=0.05
+Bmin=0.02
+White, Green -Transparent",16,"Dmax=0.12
+Dmin=0.04
+Black, Brown",13,"Lmax=0.15
+Lmin=0.07
+Bmax=0.12
+Bmin=0.04
+White",3,"Black, Brown, White, Red, Blue, Sky Blue and Green-Transparent",98,"Alkyd Resin-77.34%
+Polyvinyl Stearate-70.24%"
+S-16,24.0,Dhaka Uddan,Buriganga,"Lmax=0.14
+Lmin=0.09
+Black ,Green, Red, Blue",15,"Lmax=0.14
+Lmin=0.05
+Bmax=0.09
+Bmin=0.03
+Brown, Sky Blue, Black",31,"Lmax=0.49
+Lmin=0.18
+Bmax=0.07
+Bmin=0.03
+Transparent",17,"Dmax=-.11
+Dmin=0.05
+Black, Brown",13,"Dmax=032
+Dmin=0.05
+White",2,"Black, Brown, White ,Red, Blue, Sky Blue and Transparent",78,"Alkyd Resin-70.59%
+Polyvinyl Stearate-67.99%"
+S-17,25.6,"Katasur , Bosila",Buriganga,"Lmax=0.49
+Lmin=0.32
+Black ,Red, Blue",12,"Lmax=0.13
+Lmin=0.05
+Bmax=0.08
+Bmin=0.03
+
+Brown, Black",33,"Lmax=0.30
+Lmin=0.11
+Bmax=0.10
+Bmin=0.05
+Transparent, White",18,"Dmax=0.08
+Dmin=0.02
+Black, Brown",16,"Dmax=0.14
+Dmin=0.02
+White",4,"Black, White, Green, Transparent, Brown and Red",83,Polyvinyl Stearate-73.86%
+S-18,27.2,"Bosila Landing Station,Bosila",Buriganga,"Lmax=0.83
+Lmin=0.12
+Black, Red, Brown",13,"Lmax=0.14
+Lmin=0.03
+Bmax=0.09
+Bmin=0.02
+Black, Red, Bluish Green",34,"Lmax=0.22
+Lmin=0.07
+Bmax=0.04
+Bmin=0.08
+White, Transparent",9,"Dmax=0.07
+Dmin=0.02
+Black ,Brown",12,0,,"Black, White, Red, Transparent and Bluish Green",68,"Polyethylene Glycol-26.35%
+Polyvinyl Alcohol-23.75%
+poly methylphenylsiloxane-21.76%
+Nylon II-20.34%"
+S-19,28.8,Hazaribag,Buriganga,"Lmax=3.81
+Lmin=0.20
+Black, Red, Brown",11,"Lmax=0.09
+Lmin=0.02
+Bmax=0.06
+Bmin=0.02
+Black, Red, Dark- Green",44,"Lmax=0.09
+Lmin=0.03
+Bmax=0.06
+Bmin=0.02
+White, Transparent",15,"Dmax=0.06
+Dmin=0.02
+Black ,Brown",17,"Dmax=0.24
+Dmin=0.04
+White",1,"Black, White, Red, Green and Transparent",88,"Polyethylene Glycol-28.72%
+Polyvinyl Alcohol-26.71%"
+S-20,30.4,Kamrangichar,Buriganga,"Lmax=1.01
+Lmin=0.11
+Black, Blood Red",23,"Lmax=0.13
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+Black, Red",38,"Lmax=0.16
+Lmin=0.03
+Bmax=0.04
+Bmin=0.02
+White, Transparent",8,"Dmax=0.06
+Dmin=0.02
+Black, Dark Blue, Brown",13,"Lmax=0.22
+Lmin=0.07
+Bmax=0.03
+Bmin=0.06
+White",2,"Black ,Dark Blue, White, Brown, Transparent and blood Red",84,"Nylon II-29.50%
+
+ABS (acrylonitrile butadiene styrene)- 17.33%
+Polyamide 6 -18.12%
+Polyethylene film-11.43%"
+S-21,32.0,Kamrangichar,Buriganga,"Lmax=2.30
+Lmin=0.14
+Black, Red, Green",10,"Lmax=0.15
+Lmin=0.06
+Bmax=0.10
+Bmin=0.02
+Black, Bluish Green",23,"Lmax=0.14
+Lmin=0.04
+Bmax=0.08
+Bmin=0.03
+White, Transparent",8,"Dmax=0.08
+Dmin=0.02 Black,Brown",14,"Lmax=0.27
+Lmin=0.11
+Bmax=0.04
+Bmin=0.07
+white",2,"Black, White, Red, Brown, Transparent Bluish Green, and Red",57,"Alkyd Resin-82.14%
+Poly(ethylene, propylene, and diene)- 71.97%
+Polyvinyl Stearate-70.92%"
+S-22,33.6,Kamrangichar,Buriganga,"Lmax=0.16
+Lmin=0,05
+Black, Red",16,"Lmax=0.09
+Lmin=0.02
+Bmax=0.05
+Bmin=0.02
+Black, Dark Red,",42,"Lmax=0.10
+Lmin=0.03
+Bmax=0.05
+Bmin=0.02
+Black, white, Transparent",18,"Dmax=0.09
+Dmin=0.03
+Black, Brown",17,0,,"Black,White, Red, Dark Red, Green, Brown and Transparent",93,"Nylon II-44.26
+Polyamide 6 +Polyamide 6.6- 24.73%
+Nylon 6/10-23.41%"
+S-23,35.2,Kamrangichar,Buriganga,"Lmax=1.01
+Lmin=0.16
+Black",17,"Lmax=0.10
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+Black, Golden, Red",39,"Lmax=0.09
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+White, Silver",17,"Dmax=0.07
+Dmin=0.03
+Black, Brown",23,0,,"Black, White, Red, Brown, Silver and Golden",96,"Alkyd Resin-87.59%
+Polyvinyl Stearate-83.28%"
+S-24,36.8,Sadar Ghat,Buriganga,"Lmax=0.32
+Lmin=0.11
+Black",19,"Lmax=0.29
+Lmin=0.02
+Bmax=0.11
+Bmin=0.03
+Black, Brown, Red, Golden",46,"Lmax=0.24
+Lmin=0.05
+Bmax=0.16
+Bmin= 0.03
+White, Transparent,",21,"Dmax=0.06
+Dmin=0.03
+Black, Brown",18,"Dmax=0.14
+Dmin=0.06
+white",3,"Black, White ,Brown, Red, Transparent and Golden",107,"Alkyd Resin-87.47%
+Polyvinyl Stearate-86.01%"
+S-25,38.4,Sadar Ghat,Buriganga,"Lmax=0.49
+Lmin=0.12
+Black,Red",7,"Lmax=0.25
+Lmin=0.08
+Bmax=0.12
+Bmin=0.03
+Brown, Black, Dark Red",16,"Lmax=0.23
+Lmin=0.04
+Bmax=0.08
+Bmin=0.02
+White, Transparent",3,"Dmax=0.10
+Dmin=0.03
+Black, Brown",5,"Lmax=0.24
+Lmin=0.09
+Bmax=0.10
+Bmin=0.04
+White",2,"Black, Red, white, , transparent, Dark Red, Brown and White",33,"Nylon II-36.33%
+ABS (acrylonitrile butadiene styrene)- 21.79%
+Polyethylene film-15.20%"
+S-26,40.0,Postgola Bridge,Buriganga,"Lmax=0.45
+Lmin=0.15
+Black, Red",15,"Lmax=0.14
+Lmin=0.03
+Bmax=0.09
+Bmin=0.03
+Black, Red, Brown",26,"Lmax=0.31
+Lmin=0.06
+Bmax=0.05
+Bmin=0.07
+White, Transparent",6,"Dmax=0.14
+Dmin=0.02
+Black, Brown",17,0,,"Black, white, Red, Brown and Transparent",64,"Alkyd Resin-78.29%
+Poly(vinyl, Propionate or Acetate)-70.13%
+Poly(vinyl Propionate: Acrylate)-65.51%
+Poly(vinyl, Acetate:Ethylene)-62.04%
+Polyvinyl Stearate-59.47%"
+S-27,41.6,Shyampur,Buriganga,"Lmax=1.08
+Lmin=0.23
+Black, Red",32,"Lmax=0.08
+Lmin=0.02
+Bmax=0.03
+Bmin=0.02
+Black, Red, Blood Red",48,"Lmax=0.90
+Lmin=0.31
+Bmax=0.09
+Bmin=0.04
+White, Transparent",13,"Dmax=0.10
+Dmin=0.04
+Black, Brown",10,White,3,"Black, Brown, Blood Red, Transparent, White, and Red",106,"Polyethylene Glycol-27.52%
+Polyvinyl Alcohol-28.26%"
+S-28,43.2,Pagla,Buriganga,"Lmax=0.47
+Lmin=0.15
+Black, Red",20,"Lmax=0.19
+Lmin=0.03
+Bmax=0.09
+Bmin=0.03
+Black, Bluish Green ,Blood Red",38,"Lmax=0.29
+Lmin=0.10
+Bmax=0.08
+Bmin=0.03
+White, Transparent",14,"Dmax=0,07
+Dmin=0.02
+Black, Brown",17,0,,"White 
+Black, Brown, Blood Red, Transparent, and Bluish Green",89,"Polyamide 6 +Polyamide 6.6- 14.25%
+Nylon II-10.12%"
+S-29,44.8,Aligonj Boat Ghat,Buriganga,"Lmax=1.64
+Lmin=0.19
+Black, Red, Blue",21,"Lmax=0.29
+Lmin=0.03
+Bmax=0.09
+Bmin=0.03
+Black, Brown, Bluish Green",68,"Lmax=0.10
+Lmin=0.03
+Bmax=0.05
+Bmin=0.02
+White, Traspsrent",13,"Dmax=0.06
+Dmin=0.02
+Black, Brown,",19,0,,"Black, White, Brown, Transparent, Blue, Red, and Bluish Green,",121,"Polyvinyl Stearate-58.26%
+Nylon II-28.08%
+Polyethylene Glycol-18.31%"
+S-30,46.4,Fatullah,Buriganga,"Lmax=1.01
+Lmin=0.16
+Black",11,"Lmax=0.10
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+Black, Golden, Red",37,"Lmax=0.09
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+White, Silver",15,"Dmax=0.07
+Dmin=0.03
+Black, Brown",17,0,,"Black, White, Red, Brown, Silver and Golden",80,"Alkyd Resin-87.59%
+Polyvinyl Stearate-83.28%"
+S-31,48.0,Fatullah,Buriganga,"Lmax=0.24
+Lmin=0.05
+Black, Red",15,"Lmax=0.26
+Lmin=0.09
+Bmax=0.09
+Bmin=0.03
+Black, Yellow, Blue",33,"Lmax=0.07
+Lmin=0.02
+Bmax=0.03
+Bmin=0.02
+White",14,"Dmax=0.04
+Dmin=0.02
+Black, Brown",16,"Lmax=0.12
+Lmin=0.03
+Bmax=0.04
+Bmin=0.02
+White",1,"Black, White, Brown, Red, Blue and Yellow",79,"Alkyd Resin-78.80%
+Polyvinyl Stearate-74.59%
+Poly(vinyl, Propionate or Acetate)-27.42%"
+S-32,49.6,"B G Mouth , Fatullah",Dhaleshwari,"Lmax=0.82
+Lmin=0.10
+Black, Red",17,"Lmax=0.21
+Lmin=0.09
+Bmax=0.31
+Bmin=0.09
+Black ,Blue",34,"Lmax=1.14
+Lmin=0.06
+Bmax=0.18
+Bmin=0.04
+White, Transparent",15,"Dmax=0.11
+Dmin=0.04
+Black, Brown",17,0,,"Black, White, Brown, Transparent, Blue and Red,",83,"Alkyd Resin-84.33%
+Polyvinyl Stearate-73.08%
+Poly(ethylene, propylene, and diene)- 66.96%
+Poly(Butadiene:Acrylonitrile)-26.19%
+Poly(Methyphenylsiloxane)-25.88%"
+S-33,51.2,"Purbo Gopalnagar , Fatullah",Dhaleshwari,"Lmax=0.43
+Lmin=0.18
+Black",10,"Lmax=0.33
+Lmin=0.19
+Bmax=0.28
+Bmin=0.03
+Black ,Red, Green",34,"Lmax=0.32
+Lmin=0.09
+Bmax=0.11
+Bmin=0.05
+White",15,"Dmax=0.09
+Dmin=0.03
+Black, Brown",13,0,,"Black, White, Brown, Red and Green",72,"Alkyd Resin-84.79%
+Polyvinyl Stearate-83.02%"
+S-34,52.8,"Char Rajapur , Fatullah",Dhaleshwari,"Lmax=0.46
+Lmin=0.11
+Black",18,"Lmax=0.26
+Lmin=0.14
+Bmax=0.10
+Bmin=0.05
+Black ,Red, Brown",43,"Lmax=0.12
+Lmin=0.04
+Bmax=0.11
+Bmin=0.03
+White, Transparent",11,"Dmax=0.11
+Dmin=0.02
+Black, Brown",14,"Dmax=0.18
+Dmin=0.03
+White",3,"Black, White, Brown, Red, Transparent and Yellow",89,Polyvinyl Stearate-48.60%
+S-35,54.4,"Moddachar , Narayanganj",Dhaleshwari,"Lmax=0.32
+Lmin=0.11
+Black",14,"Lmax=0.29
+Lmin=0.02
+Bmax=0.11
+Bmin=0.03
+Black, Brown, Red, Golden",38,"Lmax=0.24
+Lmin=0.05
+Bmax=0.16
+Bmin= 0.03
+White, Transparent,",17,"Dmax=0.06
+Dmin=0.03
+Black, Brown",15,"Dmax=0.14
+Dmin=0.06
+white",2,"Black, White ,Brown, Red, Transparent and Golden",86,"Alkyd Resin-87.47%
+Polyvinyl Stearate-86.01%"
+S-36,56.0,Char Sayedpur,Dhaleshwari,"Lmax=0.91
+Lmin=0.15
+Black, Red",19,"Lmax=0.34
+Lmin=0.09
+Bmax=0.18
+Bmin=0.07
+Black,Blue",37,"Lmax=1.10
+Lmin=0.16
+Bmax=0.29
+Bmin=0.07
+White, Transparent",15,"Dmax=0.16
+Dmin=0.07
+Black, Brown",23,"Dmax=0.16
+Dmin=0.03
+White",3,"Black, White, Brown, Transparent, Blue,and Red,",97,"Alkyd Resin-85.83%
+Polyvinyl Stearate-82.42%
+Poly(ethylene, propylene, and diene)- 41.69%
+Nylon II-34.47%"
+S-37,57.6,Mirkadim,Dhaleshwari,"Lmax=0.82
+Lmin=0.10
+Black, Red",17,"Lmax=0.21
+Lmin=0.09
+Bmax=0.31
+Bmin=0.09
+Black ,Blue",34,"Lmax=1.14
+Lmin=0.06
+Bmax=0.18
+Bmin=0.04
+White, Transparent",15,"Dmax=0.11
+Dmin=0.04
+Black, Brown",17,0,,"Black, White, Brown, Transparent, Blue and Red,",83,"Alkyd Resin-84.33%
+Polyvinyl Stearate-73.08%
+Poly(ethylene, propylene, and diene)- 66.96%
+Poly(Butadiene:Acrylonitrile)-26.19%
+Poly(Methyphenylsiloxane)-25.88%"
+S-38,59.2,Muktarpur Bridge,Dhaleshwari,"Lmax=0.13
+Lmin=0.05
+Black",9,"Lmax=0.07
+Lmin=0.02
+Bmax=0.05
+Bmin=0.02
+Blue ,Black, Red",29,"Lmax=0.05
+Lmin=0.02
+Bmax=0.04
+Bmin=0.02
+White, Transparent",12,"Dmax=0.04
+Dmin=0.02
+Black ,Dark red",16,0,,"Black, White, Blue, Red, Dark Red, Transparent",66,"Alkyd Resin-88.68%
+Polyvinyl Stearate-88.45%"
+S-39,60.8,Munshiganj Launch Terminal,Dhaleshwari,"Lmax=0.94
+Lmin=0.10
+Black, Red",123,"Lmax=0.55
+Lmin=0.23
+Bmax=0.18
+Bmin=0.05
+Black ,Blue",36,"Lmax=0.45
+Lmin=0.03
+Bmax=0.06
+Bmin=0.02
+White, Transparent",17,"Dmax=0.13
+Dmin=0.03
+Black, Brown",19,"Dmax=0.12
+Dmin=0.04
+White",1,"Black, White, Brown, Transparent, Blue and Red,",85,"Alkyd Resin-64.33%
+Poly(vinyl, Propionate or Acetate)-52.62%
+Poly(vinyl Propionate: Acrylate)-50.84%
+Poly(vinyl, Acetate:Ethylene)-48.30%"
+S-40,62.4,"Char Kishorganj , Munshiganj",Dhaleshwari,"Lmax=0.82
+Lmin=0.10
+Black, Red,Blue",36,"Lmax=0.13
+Lmin=0.03
+Bmax=0.09
+Bmin=0.03
+Black ,Blue, Blood Red",26,"Lmax=0.37
+Lmin=0.02
+Bmax=0.09
+Bmin=0.04
+White, Transparent",17,"Dmax=0.30
+Dmin=0.10
+Black, Brown",13,"Dmax=0.24
+Dmin=0.06
+White",2,"Black, White ,Blood Red, Brown, Transparent, Blue and Red,",94,"Alkyd Resin-86.44%
+Polyvinyl Stearate-73.06%
+
+Poly(ethylene, propylene, and diene)- 72.28%"
+S-41,64.0,"Kalagachia, Bandar",Shitalakshya,"Lmax=1.93
+Lmin=0.34
+Red,Black",8,"Lmax=0.73
+Lmin=0.14
+Bmax=0.49
+Bmin=0.09
+Black ,Blood Red",21,"Lmax=0.45
+Lmin=0.07
+Bmax=0.09
+Bmin=0.02
+White, Transparent",6,"Dmax=0.13
+Dmin=0.03
+Black, Brown",12,0,,"Black, White ,Blood Red, Brown, Transparent and Red,",47,"Polyethylene Glycol-29.57%
+Polyvinyl Alcohol-29.26%"
+S-42,65.6,"Kalagachia, Bandar",Shitalakshya,"Lmax=0.78
+Lmin=0.28
+Black, Red",14,"Lmax=0.23
+Lmin=0.09
+Bmax=0.12
+Bmin=0.05
+Black, Red, Golden",27,"Lmax=0.24
+Lmin=0.09
+Bmax=0.18
+Bmin=0.06
+White, Silver",8,"Dmax=0.23
+Dmin=0.05
+Black, Brown",10,"Dmax=0.45
+Dmin=0.04
+White",1,"Black, White, Red, Brown, Silver and Golden",60,"Polyethylene Glycol-22.68%
+Polyvinyl Alcohol-24.61%"
+S-43,67.2,Modonganj,Shitalakshya,"Lmax=1.68
+Lmin=0.09
+Black ,Blue",16,"Lmax=0.13
+Lmin=0.03
+Bmax=0.07
+Bmin=0.04
+Black, Dark Red, Brown",34,"Lmax=0.28
+Lmin=0.04
+Bmax=0.09
+Bmin=0.03
+White, Transparent,",11,"Dmax=0.08
+Dmin=0.03
+Black, Brown",13,"Dmax=0.08
+Dmin=0.02
+White",3,"Black, White, Blue, Dark Red, and Transparent",77,"Alkyd Resin-86.83%
+Polyvinyl Stearate-84.15%"
+S-44,68.8,Nasim Usman 3rd Bridge,Shitalakshya,"Lmax=3.41
+Lmin= 0.22
+Black",19,"Lmax=0.11
+Lmin=0.02
+Bmax=0.05
+Bmin=0.02
+Blue ,Black, Red",56,"Lmax=0.05
+Lmin=0.02
+Bmax=0.04
+Bmin=0.02
+White, Transparent",12,"Dmax=0.04
+Dmin=0.02
+Black ,Dark red",21,"Dmax=0.11
+Dmin=0.04
+white",2,"Black, White, Blue, Red, Dark Red, Transparent",110,"Alkyd Resin-83.56%
+Polyvinyl Stearate-81.90%"
+S-45,70.4,"Nitaigonj, Narayanganj",Shitalakshya,"Lmax=0.13
+Lmin=0.05
+Black",9,"Lmax=0.07
+Lmin=0.02
+Bmax=0.05
+Bmin=0.02
+Blue ,Black, Red",29,"Lmax=0.05
+Lmin=0.02
+Bmax=0.04
+Bmin=0.02
+White, Transparent",12,"Dmax=0.04
+Dmin=0.02
+Black ,Dark red",16,0,,"Black, White, Blue, Red, Dark Red, Transparent",66,"Alkyd Resin-88.68%
+Polyvinyl Stearate-88.45%"
+S-46,72.0,5th BIWTA Ghat,Shitalakshya,"Lmax=1.63
+Lmin=0.05
+Black ,Blue, Red",8,"Lmax=0.18
+Lmin=0.02
+Bmax=0.32
+Bmin=0.08
+Black, Dark Red, Brown",21,"Lmax=0.22
+Lmin=0.09
+Bmax=0.63
+Bmin=0.05
+White, Transparent",8,"Dmax=0.2
+Dmin=0.03
+Black, Brown",11,"Dmax=0.11
+Dmin=0.03
+white",1,"Black, White, Red, Brown, Blue, Dark Red, and Transparent",49,"Nylon II-32.83%
+ABS (acrylonitrile butadiene styrene)- 20.33%
+Polyethylene Film-12.78%"
+S-47,73.6,Hajiganj(Borofkol),Shitalakshya,"Lmax=0.66
+Lmin=0.12
+Black, Blue, Red",13,"Lmax=0.19
+Lmin=0.10
+Bmax=0.12
+Bmin=0.05
+Black, Blue, Blood Red, Brown",38,"Lmax=0.32
+Lmin=0.02
+Bmax=0.11
+Bmin=0.04
+White, Transparent",7,"Dmax=0.41
+Dmin=0.07
+Black, Brown",6,0,,"Black, White ,Blood Red, Brown, Transparent, Blue and Red,",64,"Alkyd Resin-80.13%
+Polyvinyl Stearate-79.58%"
+S-48,75.2,Luxminarayan Ghat,Shitalakshya,"Lmax=1.21
+Lmin=0.08
+Black, Red",16,"Lmax=0.47
+Lmin=0.04
+Bmax=0.09
+Bmin=0.03
+Black, Blue, Blood Red",44,"Lmax=0.22
+Lmin=0.09
+Bmax=0.13
+Bmin=0.04
+White, Transparent",16,"Dmax=0.18
+Dmin=0.04
+Black, Brown",12,0,,"Black, White, Blood Red, Brown, Transparent, and Blue",88,"Alkyd Resin-49.53%
+Poly(ethylene, propylene, and diene)- 44.07%
+Poly(Methyphenylsiloxane)-25.26%
+Polyethylene Glycol-32.56%"
+S-49,76.8,"Godenail, Narayanganj",Shitalakshya,"Lmax=2.07
+Lmin=0.08
+Black, Blue",23,"Lmax=0.04
+Lmin=0.02
+Bmax=0.04
+Bmin=0.02
+Black ,Blue ,Red",37,"Lmax=0.24
+Lmin=0.03
+Bmax=0.06
+Bmin=0.02
+White, Transparent",12,"Dmax=0.04
+Dmin=0.02
+Black, Brown",8,"Dmax=0.12
+Dmin=0.03
+White",2,"Black, White, Brown, Transparent, Blue and Red",82,"Alkyd Resin-83.24%
+Polyvinyl Stearate-77.11%"
+S-50,78.4,Siddirganj,Shitalakshya,"Lmax=1.01
+Lmin=0.19
+Black ,Red, Blue, Green",29,"Lmax=0.12
+Lmin=0.03
+Bmax=0.07
+Bmin=0.02
+Black ,Dark Red, Green",43,"Lmax=0.07
+Lmin=0.02
+Bmax=0.15
+Bmin=0.03
+White, Transparent",16,"Dmax=0.07
+Dmin=0.03
+Black, Brown",22,0,,"Black, White, Red, Brown, Green, Blue, Dark Red, and Transparent",110,"Polyvinyl Alcohol-25.13%
+Nylon II-23.91%
+Polyethylene Glycol-23.32%"
+S-51,80.0,Siddirganj,Shitalakshya,"Lmax=0.87
+Lmin=0.20
+Black, Blue, Red",17,"Lmax=0.12
+Lmin=0.03
+Bmax=0.08
+Bmin=0.03
+Black, Brown",31,"Lmax=0.10
+Lmin=0.03
+Bmax=0.7
+Bmin=0.4
+White, Transparent",16,"Dmax=0.10
+Dmin=0.03
+Black, Brown",13,0,,"Black, White, Brown, Transparent, Blue and Red",77,"Nylon II-43.44%
+Linear low Density Polyethylene-32.76%
+Polyvinyl Alcohol-23.57%"
+S-52,81.6,Kanchpur Bridge,Shitalakshya,"Lmax=1.62
+Lmin=0.23
+Black, Blue, Red",32,"Lmax=0.11
+Lmin=0.03
+Bmax=0.06
+Bmin=0.02
+Black, Blue, Dark Red",47,"Lmax=0.11
+Lmin=0.03
+Bmax=0.09
+Bmin=0.07
+White, Transparent",14,"Dmax=0.10
+Dmin=0.04
+Black, Brown",18,"Dmax=0.07
+Dmin=0.02
+White",3,"Black, White, Red, Brown, Blue, Dark Red, and Transparent",114,"Nylon II-32.82%
+ABS (acrylonitrile butadiene styrene)- 17.57%
+Polyamide 6-14.02%"
